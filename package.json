@@ -1,5 +1,5 @@
 {
-  "name": "webpack-typescript-tailwind",
+  "name": "firebase-hosting",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -62,6 +62,7 @@
     "@emotion/styled": "^11.9.3",
     "@types/react": "^18.0.15",
     "concurrently": "^7.2.2",
+    "firebase-tools": "^11.7.0",
     "jest-cli": "^28.1.2",
     "jest-environment-jsdom": "^28.1.2",
     "lodash": "^4.17.21",
